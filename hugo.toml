@@ -1,5 +1,7 @@
-title = "zenzombie.blog (private)"
+title = "zenzombie.blog"
 languageCode = "en-us"
+baseURL = "https://zenzombie.blog/"
+publishDir = "public"
 
 buildFuture = false
 buildExpired = false
