@@ -23,10 +23,9 @@ tableOfContents: false
 
   min-height: calc(100vh - var(--header-h));
   display: grid;
-  place-items: start center;
+  place-items: start left;
 
-  padding-top: calc((100dvh - var(--header-h)) * 0.24);
-  padding-inline: 2rem;
+  padding-top: calc((100dvh - var(--header-h)) * 0.22);
   box-sizing: border-box;
 }
 
