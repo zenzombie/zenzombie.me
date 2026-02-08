@@ -3,8 +3,6 @@ title: Farm-to-Table Data Architecture
 description: An edible whitepaper for understanding how data moves from creation to consumption.
 ---
 
-# Farm-to-Table Data Architecture
-
 This is an edible whitepaper — written for the people who consume data products, and for the professionals who create them. It offers a simple and intuitive model for understanding how data moves from creation to consumption, and why care, time, and craft matter along the way. It is meant to serve as a shared language for all stakeholders — to explain tradeoffs, set expectations, and make better decisions together.
 
 ## Summary

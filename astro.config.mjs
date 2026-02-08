@@ -8,6 +8,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'zenzombie',
+			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/zenzombie/zenzombie.me' }],
 			sidebar: [
 				{ label: 'About', slug: 'about' },
