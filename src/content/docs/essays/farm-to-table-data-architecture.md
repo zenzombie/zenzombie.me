@@ -1,22 +1,26 @@
+---
+title: Farm-to-Table Data Architecture
+description: An edible whitepaper for understanding how data moves from creation to consumption.
+---
+
 # Farm-to-Table Data Architecture
 
 This is an edible whitepaper — written for the people who consume data products, and for the professionals who create them. It offers a simple and intuitive model for understanding how data moves from creation to consumption, and why care, time, and craft matter along the way. It is meant to serve as a shared language for all stakeholders — to explain tradeoffs, set expectations, and make better decisions together.
 
 ## Summary
 
-**The Farm**
-The Farm consists of the fields, orchards, gardens, and pastures where raw food and ingredients grow, each representing a source system that generates data. Some of this data may look edible, but its quality and cleanliness vary widely, and consuming it directly often leads to unpleasant side effects — confusion, contradictory results, wasted effort, and loss of trust — much like eating unwashed or undercooked food.
+**The Farm** consists of the fields, orchards, gardens, and pastures where raw food and ingredients grow, each representing a source system that generates data. Some of this data may look edible, but its quality and cleanliness vary widely, and consuming it directly often leads to unpleasant side effects — confusion, contradictory results, wasted effort, and loss of trust — much like eating unwashed or undercooked food.
 
-**The Kitchen**
-The Kitchen is where raw ingredients are washed, trimmed, combined, cooked, and made safe to eat. This is where trained professionals work with proper tools, controlled processes, and strict standards — not only to remove risk, but to thoughtfully combine ingredients, invent recipes, and ensure each dish is prepared the same way every time. In data terms, this is where engineers clean, integrate, standardize, test, and prepare data so that what reaches the table consistently nourishes decisions instead of making the organization sick.
+**The Kitchen** is where raw ingredients are washed, trimmed, combined, cooked, and made safe to eat. This is where trained professionals work with proper tools, controlled processes, and strict standards — not only to remove risk, but to thoughtfully combine ingredients, invent recipes, and ensure each dish is prepared the same way every time. In data terms, this is where engineers clean, integrate, standardize, test, and prepare data so that what reaches the table consistently nourishes decisions instead of making the organization sick.
 
-**The Table**
-The Table is where food is finally served. When it has been carefully prepared in a well-run kitchen, diners need not wonder whether it is safe, how it was made, or whether the recipe changed mid-meal. This is where data products belong — allowing decision-makers to focus on outcomes, not ingredients. **Trust at the table is earned in the kitchen.**
+**The Table** is where food is finally served. When it has been carefully prepared in a well-run kitchen, diners need not wonder whether it is safe, how it was made, or whether the recipe changed mid-meal. This is where data products belong — allowing decision-makers to focus on outcomes, not ingredients. **Trust at the table is earned in the kitchen.**
 
 ## The Farm — Common Breakdowns
 The Farm is where data is grown as a byproduct of running the organization. Each source system produces data according to its own priorities, rhythms, and constraints, much like farms growing crops on seasonal schedules and under varying conditions. The kitchen depends on this supply, but does not control what is produced, how it is packaged, or when it arrives. **Problems at the farm ripple downstream and become waves, slowing preparation and increasing risk.**
 
 To understand why organizational rigor at the farm matters, it helps to examine the most common breakdowns — and how healthy farms address them.
+
+---
 
 ### Ambiguous Ownership and Accountability
 
@@ -26,6 +30,8 @@ Ambiguous ownership also slows change and improvement. Questions go unanswered, 
 
 **Healthy farms have clear ownership and explicit accountability.** Successful organizations designate owners for each data source, define responsibilities, and empower those owners to maintain quality, labeling, delivery, and change coordination. When accountability is clear, issues are addressed at the source, partnerships strengthen, and the entire farm-to-table system becomes faster, safer, and more resilient.
 
+---
+
 ### Poor or Missing Labels
 
 **Poor labeling is one of the most costly and least visible failures at the farm.** When raw data arrives with vague, misleading, or missing labels, the kitchen is left guessing what each ingredient actually is. Engineers are forced to infer meaning, reverse-engineer intent, and make assumptions before any preparation can begin — increasing risk at every step.
@@ -33,6 +39,8 @@ Ambiguous ownership also slows change and improvement. Questions go unanswered, 
 Poorly labeled data is like receiving sacks of ingredients with no names, no origin, and no guidance on how they should be used. Even when the ingredients are technically complete, their meaning is ambiguous. Different people interpret them differently, recipes diverge, and reports that appear similar quietly tell different stories.
 
 **Healthy farms invest in clear, verbose, and well-maintained labels.** Descriptive names, precise explanations, and disciplined upkeep allow the kitchen to work confidently and consistently. Over time, good labeling compounds in value — reducing onboarding time, preventing misinterpretation, accelerating new data products, and steadily increasing trust at the table. When labels are neglected, everyone downstream pays the price.
+
+---
 
 ### Late and Inconsistent Delivery
 
@@ -42,6 +50,8 @@ Inconsistent delivery also undermines confidence. When the same report reflects 
 
 **Healthy farms deliver on a predictable schedule and honor clear service-level expectations.** Successful organizations define when data will arrive, how complete it will be, and what happens when those expectations are not met. This consistency allows the kitchen to plan, prioritize, and deliver data products quickly and safely — and allows the table to trust what is served.
 
+---
+
 ### Unannounced Changes and Changes Without Adaptation Time
 
 Changes at the farm are inevitable — but changes made without warning, or announced without regard for the effort required to adapt, introduce significant downstream risk. When ingredients change suddenly, or when notice is given too late to respond, the kitchen is forced into reactive mode, scrambling to adjust recipes, retest results, and contain damage.
@@ -50,6 +60,8 @@ Even well-intentioned changes can be harmful if timing is ignored. A schema upda
 
 **Healthy farms treat change as a coordinated event, not a unilateral decision.** Successful organizations announce changes early, align on realistic timelines, and account for the downstream work required to adapt safely. This allows the kitchen to update recipes deliberately and continue serving consistent meals — without forcing the organization to absorb the cost of rushed or broken changes.
 
+---
+
 ### Ad Hoc Data and Manual Delivery  
 
 When critical data arrives through manual processes that resist automation — or when data is produced manually instead of by a system — the kitchen is forced to wait, interpret, and reconcile inputs that change without warning. These patterns introduce delays, inconsistencies, and hidden errors that compound over time.
@@ -57,12 +69,13 @@ When critical data arrives through manual processes that resist automation — o
 **Healthy organizations treat raw data delivery as an engineering problem**, not a clerical one. They evaluate sources deliberately, automate ingestion wherever possible, and create durable systems and processes where none previously existed. Over time, this shift replaces waiting and rework with predictability — allowing the kitchen to prepare meals reliably and at scale.
 
 
-## Kitchen — Critical Components  
+## The Kitchen — Critical Components  
 
 The kitchen is where raw ingredients are transformed into meals that can be safely and confidently served. It is where care, craft, and discipline turn potential into value. But even the best kitchen operates within real constraints — it depends entirely on the quality, reliability, and predictability of what arrives from the farm. **A well-run kitchen cannot compensate for an unreliable farm.**
 
 When the farm is healthy, the kitchen can excel. In those conditions, a high-performing kitchen is defined by three critical components: clear boundaries between preparation and consumption, shared recipes and standards that balance craft with consistency, and a clear understanding of who it is cooking for and why.
  
+---
 
 ### An Intentional Menu
 
@@ -83,6 +96,8 @@ Without this:
 
 **A kitchen that doesn’t know its diners will cook impressive food nobody ordered.**
 
+---
+
 ### A Hard Boundary Between the Kitchen and the Dining Area  
 
 A healthy and efficient data platform maintains a **clear, enforced separation between the kitchen and the dining area** — between where data is prepared and where it is consumed. This boundary defines what is safe to eat and what is not.
@@ -101,6 +116,8 @@ This boundary is what makes excellence possible. It allows the kitchen to:
 - move faster *after* preparation is complete  
 
 **If the kitchen is open to diners, chefs never have a preparation area they fully control.**
+
+---
 
 ### Shared Recipes and Standards (Craft + Consistency)
 
@@ -124,13 +141,19 @@ Chefs still invent dishes, but:
 
 **Consistency is not the enemy of creativity — it’s the price of serving others.**
 
+---
+
 ## The Table — Operating a Food Service Business
 
 The table is where food is finally served — and where decisions are made. In data terms, the table is not just a destination, but a **promise**: that what is placed here is fit for consumption within a known context.
 
+---
+
 ### Where Am I Eating?
 
 Crucially, **not all tables are the same**. A hot dog stand, a food truck, a cafeteria, a potluck dinner, and a fine restaurant all serve food, but they carry very different expectations around preparation, consistency, and risk. The same is true of data tables. Understanding *what kind of table you are eating from* is essential to understanding what the data can — and cannot — be trusted to support.
+
+---
 
 #### Restaurant  
 
@@ -146,6 +169,8 @@ In data terms, these are executive dashboards, financial reports, and production
 
 **If it is served at a restaurant table, it is safe to base decisions on.**
 
+---
+
 #### Cafeteria  
 
 Cafeteria tables offer flexibility without abandoning safety.
@@ -155,6 +180,8 @@ The ingredients are prepared and trustworthy, but diners assemble their own meal
 In data terms, these are certified datasets and self-service analytics environments. The kitchen has done the hard work of preparation; diners choose how to combine what’s available.
 
 **You choose the meal, but the ingredients are reliable.**
+
+---
 
 #### State Fair Food Truck  
 
@@ -176,6 +203,7 @@ State fair food trucks incur debt by design. When the fair ends, the work must e
 **Temporary success does not make something permanent.**  
 Food trucks that never leave the fairground eventually become liabilities.
 
+---
 
 #### Potluck Dinner  
 
@@ -201,6 +229,8 @@ A healthy data organization does not eliminate potlucks, food trucks, or cafeter
 
 **The goal is not one table. The goal is knowing which table you’re sitting at.**
 
+---
+
 ### Menus  
 
 Menus describe what is being served, what it is made of, and what diners can expect when they order a dish. In a well-run restaurant, menus are deliberate, accurate, and kept up to date. They do not explain how the food was cooked — they explain *what it is*.
@@ -219,6 +249,8 @@ When menus are missing, vague, or outdated, diners are forced to guess. Differen
 They are treated as first-class artifacts, maintained alongside the dishes they describe, and updated when recipes change.
 
 A menu does not guarantee a good meal — but without one, even excellent food becomes difficult to trust.
+
+---
 
 ### Hours of Operation and Service Guarantees  
 
@@ -242,8 +274,9 @@ Healthy data organizations treat availability and reliability as part of the pro
 Predictable hours and dependable service are not bureaucracy.  
 They are how trust is earned, one meal at a time.
 
+---
 
-# License
+## License
 
 Farm-to-Table Data Architecture (unregistered trademark)
 

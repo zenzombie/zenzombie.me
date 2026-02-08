@@ -1,7 +1,0 @@
-title = "zenzombie blog"
-languageCode = "en-us"
-baseURL = "https://zenzombie.me/"
-publishDir = "public"
-
-buildFuture = false
-buildExpired = false
