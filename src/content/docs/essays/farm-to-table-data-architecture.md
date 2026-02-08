@@ -1,6 +1,6 @@
 ---
 title: Farm-to-Table Data Architecture
-description: An edible whitepaper for understanding how data moves from creation to consumption.
+description: A practical framework for understanding data quality, ownership, and trust—from source systems to decision-making. Learn why the kitchen matters more than the ingredients.
 tableOfContents:
   overviewLabel: "Top"
 ---

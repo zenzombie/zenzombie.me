@@ -1,6 +1,6 @@
 ---
 title: About
-description: Learn more about me.
+description: Data engineer and writer exploring the intersection of technology, systems design, and thoughtful data architecture.
 tableOfContents: false
 ---
 
