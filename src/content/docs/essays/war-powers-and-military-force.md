@@ -1,4 +1,7 @@
-# Proposed U.S. Constitution Amendment — The Use of Military Force
+---
+title: Proposed U.S. Constitution Amendment — The Use of Military Force
+description: A proposed constitutional amendment redefining the threshold for congressional authorization of military force, with model legislation and implementation guidance.
+---
 
 *The United States was founded on the conviction that all people are endowed with the unalienable rights of life, liberty, and the pursuit of happiness. A government that cannot defend these rights cannot preserve them. The willingness to use military force in their defense is not in conflict with those values — it is required by them.*
 
