@@ -23,13 +23,13 @@ description: A proposed constitutional amendment redefining the threshold for co
 
 ---
 
-**Section 1. Defensive Authority**
+## Section 1. Defensive Authority
 
-**Section 1A. Interceptive Defense**
+### Section 1A. Interceptive Defense
 
 The President, as Commander in Chief, may without prior authorization of Congress direct the Armed Forces to intercept and neutralize an armed attack upon the United States, its territories, protected citizens, its Armed Forces, or military-dependent critical infrastructure, provided that such action is limited to purely interceptive measures that do not themselves project force into foreign territory, airspace, waters, or outer space. Such authority includes missile defense, interception of attacking aircraft or vessels, and blocking or deflecting hostile cyber intrusions directed at the United States.
 
-**Section 1B. Active Defense**
+### Section 1B. Active Defense
 
 The President may without prior authorization of Congress initiate active defensive force — including cross-border pursuit, retaliatory strikes, preventive strikes against an imminent armed attack, and offensive cyber operations conducted in direct response to an ongoing or imminent armed attack upon the United States, its territories, protected citizens, its Armed Forces, or military-dependent critical infrastructure — subject to the following constraints:
 
@@ -43,7 +43,7 @@ The President may without prior authorization of Congress initiate active defens
 
 Where force is authorized under this section for the protection of protected citizens present in a foreign country, such force shall be limited to the minimum operations necessary to remove those citizens from the area of danger or to directly repel the specific armed attack upon them; it shall not authorize sustained engagement with the attacking force, seizure of territory, or establishment of a no-fly zone or buffer zone.
 
-**Section 1C. High-Escalation Restrictions**
+### Section 1C. High-Escalation Restrictions
 
 Notwithstanding Sections 1A and 1B, the following actions shall require prior congressional authorization under Section 2 of this article regardless of whether they are characterized as defensive in nature:
 
@@ -55,7 +55,7 @@ Notwithstanding Sections 1A and 1B, the following actions shall require prior co
 
 ---
 
-**Section 2. Authorization of Military Force**
+## Section 2. Authorization of Military Force
 
 The Armed Forces of the United States shall not initiate the use of military force against any state actor unless authorized by Congress.
 
@@ -67,7 +67,7 @@ No authorization of military force shall take effect unless it expressly states 
 
 ---
 
-**Section 2A. Use of Force Against Non-State Actors**
+## Section 2A. Use of Force Against Non-State Actors
 
 Military force against a non-state actor shall be governed exclusively by the following principles. Proceedings under this section constitute cases arising under this Constitution and may be heard by the courts established or designated below notwithstanding any other limitation on ex parte national security proceedings. The judicial power of the United States is vested in Article III courts to hear and decide proceedings under this section and related enforcement actions under Section 7D notwithstanding ordinary case-or-controversy objections to ex parte or interbranch proceedings.
 
@@ -101,7 +101,7 @@ The use of military force against any non-state actor operating under the direct
 
 ---
 
-**Section 3. Deployment Into Foreign Territory**
+## Section 3. Deployment Into Foreign Territory
 
 The President shall not deploy the Armed Forces of the United States into any foreign territory, airspace, waters, or outer space unless such deployment is authorized by Congress, governed by a treaty that was approved by Congress as provided in Section 4, or governed by a treaty preserved by the savings clause of Section 4.
 
@@ -121,7 +121,7 @@ This section does not restrict the transit of United States Armed Forces through
 
 ---
 
-**Section 4. Military Treaties and Commitments**
+## Section 4. Military Treaties and Commitments
 
 No treaty, agreement, or other international commitment that obligates or authorizes the United States to provide military force in defense of another nation, or that establishes a mutual defense commitment under which the United States may be expected to use force, shall be valid unless approved by a recorded vote of both chambers of Congress.
 
@@ -135,7 +135,7 @@ Treaties, agreements, or commitments ratified or entered into before the ratific
 
 ---
 
-**Section 5. Scope**
+## Section 5. Scope
 
 For the purposes of this article, the term *Armed Forces* includes all branches of the United States military and any military asset, including but not limited to ground forces, naval forces, aircraft, unmanned systems, cyber capabilities, space-based systems, special operations forces, and any other instrument of military force under the authority of the United States.
 
@@ -149,7 +149,7 @@ The transfer of weapons, munitions, military equipment, or services to any forei
 
 ---
 
-**Section 6. Definitions**
+## Section 6. Definitions
 
 For the purposes of this article:
 
@@ -217,9 +217,9 @@ For the purposes of this article:
 
 ---
 
-**Section 7. Enforcement**
+## Section 7. Enforcement
 
-**Section 7A. Mandatory Vote**
+### Section 7A. Mandatory Vote
 
 Upon the initiation of any military force for which prior authorization is required by this article, upon the continuation beyond 72 hours of force initiated under Section 1B, upon the initiation of any use of force prohibited without authorization by Section 1C, upon the initiation of any retaliatory strike against a foreign state under Section 1B whether or not such strike ceases before 72 hours, upon any use of force rendered unauthorized by a material violation of Section 1B(i) or Section 1B(ii), upon the use of force without a warrant required by Section 2A, upon expansion of an existing authorization beyond its authorized scope as prohibited by Section 3, upon initiation or continuation of a deployment under either emergency weapons-of-mass-destruction deployment paragraph of Section 3, upon initiation of force under the temporary treaty authority described in Section 4 pending confirmation, or upon initiation of any transfer deemed unauthorized under the paragraph of Section 5 governing transfers in ongoing armed conflict, Congress shall hold a recorded vote on authorization within 72 hours of initiation, continuation, violation, warrant lapse, expansion, or other triggering event. This requirement may not be waived, tabled, or deferred by any rule, order, or act of either chamber. Whenever a vote is required under this section or under Section 4, each chamber shall reconvene within 24 hours by physical or secure electronic means unless Congress is incapacitated as defined in Section 6. If neither chamber has scheduled a vote within 48 hours of the initiation of the military force or triggering event that gave rise to the vote requirement, any member may bring the question directly to the floor as a matter of constitutional privilege, and such motion shall be in order notwithstanding any rule, order, or standing practice of either chamber. Failure of the presiding officer to recognize such a motion by the end of the 48th hour shall be deemed a failure to schedule the vote. The tabling, laying on the table, referral to committee, or other procedural disposition of a motion brought pursuant to this paragraph without a direct vote on authorization shall be deemed a failure to hold the required recorded vote for purposes of this section, and the 72-hour deadline shall be deemed unmet upon such disposition. For force initiated under Section 1B or in violation of Section 2, receipt of the President's report is not a prerequisite for this deadline to begin running. For scope expansions under Section 3, the 72-hour clock begins when the expansion begins. Where a Section 7D action is filed solely to resolve a disputed expansion start time under Section 3, both the vote clock under this section and the termination clock under Section 3 are tolled until the court issues its ruling on that start-time question, and in no case may such tolling exceed 48 hours. The 72-hour period established by this section is suspended only during Congressional incapacitation as defined in Section 6, except as expressly provided in the preceding sentence, and is not otherwise suspended by recess, adjournment, or delay in receiving a report. The vote requirement triggered by a warrant lapse under Section 2A is stayed upon timely filing of a renewal warrant application as provided in Section 2A; the 72-hour clock resumes from the date of any court denial of that application or upon expiration of the stay as provided in Section 2A, whichever is earlier. A material violation of Section 1B(i) or Section 1B(ii) triggers the 72-hour vote clock from the moment the violation occurs. Any federal court pursuant to Section 7D or the Comptroller General upon review of the President's required report or, where no report has been submitted within 72 hours of force initiation, based on publicly available information, official statements, or information provided by any member of Congress or Inspector General, may determine and declare the occurrence and timing of such violation for enforcement purposes.
 
@@ -227,7 +227,7 @@ If Congress fails to hold a recorded vote within 72 hours, or if it holds a reco
 
 Each member of Congress shall cast a recorded vote of yes or no. Failure to cast a recorded vote shall be counted as a vote against authorization for purposes of determining whether the authorization has passed, and shall be recorded as such in the permanent record maintained under Section 7C.
 
-**Section 7B. Automatic Funding Cutoff**
+### Section 7B. Automatic Funding Cutoff
 
 No funds appropriated, transferred, reprogrammed, or otherwise made available to any department or agency of the United States shall be obligated, expended, disbursed, performed, or executed in furtherance of any military force subject to this article beyond the applicable authorization deadline. This prohibition applies to all funds, contracts, orders, drawdowns, in-kind support, and obligations regardless of source, account, or fiscal year, whether incurred before or after the deadline, and notwithstanding any other statutory provision of law or appropriation. Nothing in this section shall be construed to override any other requirement imposed by this Constitution.
 
@@ -235,7 +235,7 @@ No security assistance, foreign military financing, or transfer of equipment, ma
 
 Any officer of the United States who knowingly obligates, expends, disburses, performs, or executes funds, contracts, orders, drawdowns, or support in violation of this section shall be removed from any appointive office held, shall be ineligible for future federal appointment, and shall be subject to such additional penalties as Congress may establish by law; provided that Congress shall at all times maintain no lesser penalty for violations of this section. Such officer shall be reported by the relevant Inspector General to Congress within 72 hours of discovery. Upon such report, the Inspector General shall file an action under Section 7D for summary confirmation of the violation and remedy, and mandatory removal under this provision takes effect immediately upon judicial confirmation. If the relevant Inspector General has been removed, has not been confirmed, or has not reported within 30 days of a publicly documented potential violation, the Comptroller General shall act as the reporting body under this subsection and shall file the corresponding Section 7D action.
 
-**Section 7C. Public Accountability**
+### Section 7C. Public Accountability
 
 The Clerk of the House and the Secretary of the Senate shall maintain a permanent public record of every vote, abstention, and failure to vote on any authorization required under this article. Failure of either chamber to hold a required recorded vote by the applicable constitutional deadline shall be recorded as a chamber-level denial of authorization and entered in that permanent record within 24 hours of the missed deadline. This record shall be updated within 24 hours of any such vote or deadline.
 
@@ -243,11 +243,11 @@ For any member of Congress who failed to cast a recorded vote on an authorizatio
 
 No member of Congress may expunge, seal, or otherwise cause the removal of such a record. The Clerk of the House or the Secretary of the Senate shall maintain a publicly accessible electronic database containing the records required by this section, and shall make such database available for free public access.
 
-**Section 7D. Judicial Review**
+### Section 7D. Judicial Review
 
 Any group of twenty members of the House of Representatives, any group of five Senators, any Senator or Representative acting individually on the basis of a failure to schedule a vote to which they are entitled under Section 7A, the Comptroller General acting pursuant to this article, or any Inspector General charged with reporting a violation under Section 7B shall have standing to bring an action in federal court to enforce the requirements of this article. Upon the filing of such an action, the court shall issue a ruling within 48 hours and may grant declaratory, injunctive, mandamus, contempt, and other appropriate relief necessary to enforce this article. If the court fails to issue a ruling within 48 hours, the military force at issue shall be presumed unauthorized for purposes of Sections 7A and 7B until a ruling is issued. The political question doctrine shall not be construed to deprive any federal court of jurisdiction to enforce the requirements of this article. The standing granted by this section constitutes a constitutionally conferred right of action enforceable in federal court and satisfies the case-or-controversy requirement of Article III of this Constitution. No court may decline jurisdiction over a claim brought under this section on the ground that the injury alleged is shared by other members of Congress or is of an institutional rather than personal character.
 
-**Section 7E. Presidential Accountability**
+### Section 7E. Presidential Accountability
 
 The initiation of military force in violation of this article shall constitute a high crime and misdemeanor for purposes of Article II, Section 4 of this Constitution. No characterization of the action as necessary, defensive, or in the national interest shall affect this determination.
 
@@ -255,13 +255,13 @@ Congress shall have the power to establish by legislation criminal penalties app
 
 Any former President convicted of initiating military force in violation of this article shall be ineligible to receive any federal funds, resources, or designation in connection with a presidential library, museum, or archival facility under any federal statute or program.
 
-**Section 7F. Legislative Authority**
+### Section 7F. Legislative Authority
 
 Congress shall have the power to enforce and implement this article by appropriate legislation, provided that no such legislation shall dilute, delay, or condition the self-executing requirements of Sections 7A and 7B.
 
 ---
 
-**Section 8. Transition**
+## Section 8. Transition
 
 All existing deployments of United States Armed Forces in foreign territory, airspace, or waters that are not governed by a congressionally approved treaty or status of forces agreement shall be brought into compliance with this article within one year of its ratification. Within 90 days of ratification, the President shall submit to Congress a complete accounting of all such deployments, including the legal authority under which each is conducted, the number of personnel involved, and the countries in which they are present. Such accounting may include a classified annex where necessary, but no deployment may be omitted on the ground that it is classified. If the President fails to submit this accounting within 90 days, all deployments not governed by a congressionally approved treaty or status of forces agreement shall terminate automatically on the 91st day. Congress shall act to authorize, approve a governing treaty or agreement, or terminate each disclosed deployment within the one-year period. Any deployment not so addressed shall terminate automatically upon expiration of the one-year period.
 
